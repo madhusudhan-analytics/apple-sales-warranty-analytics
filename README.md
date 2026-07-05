@@ -46,8 +46,6 @@ This project is a complete end-to-end Business Intelligence solution developed u
 - Business Analytics
 
 # Database Schema
-The project uses a relational database designed in **MySQL** to manage sales and warranty data. The schema consists of five interconnected tables that support efficient data storage, retrieval, and business reporting.
-
 ![Database Schema](Database%20Schema.png)
 
 # SQL Scripts
@@ -122,9 +120,60 @@ foreign key (sale_id) references sales(sale_id)
 );
 ```
 
+### Views
 
+#### VW_SALES_DETAILED 
+```sql
+create view VW_SALES_DETAILED as
+SELECT
+    s.sale_id as SALE_ID,
+    s.sale_date as SALE_DATE,
+    s.store_id as STORE_ID,
+    s1.Store_Name AS STORE_NAME,
+    s1.City AS CITY,
+    s1.Country AS COUNTRY,
+    c.category_id as CATEGORY_ID,
+    c.category_name AS CATEGORY,
+    p.Product_ID as PRODUCT_ID,
+    p.Product_Name AS PRODUCT_NAME,
+    s.quantity AS QUANTITY,
+    (s.quantity * p.Price) AS REVENUE
+FROM sales s
+LEFT JOIN stores s1
+    ON s.store_id = s1.Store_ID
+LEFT JOIN products p
+    ON s.product_id = p.Product_ID
+LEFT JOIN category c
+    ON p.Category_ID = c.category_id
+ORDER BY s.sale_date;
+```
 
-
+#### VW_WARRANTY_DETAILED 
+```sql
+create view VW_WARRANTY_DETAILED AS
+select
+      s.store_id as "STORE ID",
+      s1.Store_Name as "STORE NAME",
+      s1.City as "CITY",
+      s1.Country as "COUNTRY",
+      s.sale_id as "SALE ID",
+      w.claim_id as "CLAIM ID",
+      w.claim_date as "CLAIM DATE", 
+	  c.category_id as "CATEGORY ID",
+	  c.category_name as "CATEGORY NAME",
+      s.product_id as "PRODUCT ID",
+      p.Product_Name as "PRODUCT NAME",
+      w.repair_status as "REPAIR STATUS"
+from warranty w
+left join sales s 
+		  on s.sale_id = w.sale_id
+left join stores s1 
+		  on s.store_id = s1.Store_ID
+left join products p 
+          on s.product_id = p.Product_ID
+left join category c  
+          on p.Category_ID = c.category_id;
+```
 
 
 
