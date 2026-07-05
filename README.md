@@ -189,6 +189,20 @@ The landing page serves as the entry point to the dashboard, providing a clean a
 - Centralized navigation to improve the overall user experience.
 - Clean and minimal design focused on accessibility and ease of use.
 
+## Executive Summary
+![Executive Summary](Screenshot/Screenshot%202.png)
+
+The **Executive Summary** page provides a high-level overview of business performance by consolidating key performance indicators (KPIs) and strategic insights into a single interactive dashboard. It enables stakeholders to quickly assess overall sales performance, monitor business trends, and identify top-performing regions and product categories.
+
+### Key Highlights
+
+- Displays core business KPIs for quick performance evaluation.
+- Provides an overview of revenue distribution across product categories.
+- Tracks monthly revenue trends to monitor business performance over time.
+- Identifies the top-performing cities based on revenue generation.
+- Highlights the highest revenue-contributing countries.
+- Supports interactive filtering through year slicers for dynamic analysis.
+- Uses conditional formatting to emphasize top-performing business metrics.
 
 
 
