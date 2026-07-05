@@ -205,6 +205,22 @@ The **Executive Summary** page provides a high-level overview of business perfor
 - Uses conditional formatting to emphasize top-performing business metrics.
 
 
+## Category & Product Performance Analysis
+![Category & Product Performance Analysis](Screenshot/Screenshot%203.png)
+
+The **Category & Product Performance Analysis** page provides detailed insights into product and category performance by evaluating key sales metrics and overall business contribution. It enables users to compare product categories, identify high-performing products, analyze sales trends, and understand the relationship between revenue and quantity sold for informed decision-making.
+
+### Key Highlights
+
+- Analyzes category and product performance using key business metrics.
+- Monitors monthly revenue trends with interactive year and category filters.
+- Identifies top-performing product categories based on revenue.
+- Compares revenue and quantity sold to evaluate product performance.
+- Ranks products based on revenue contribution.
+- Provides interactive filtering for detailed category-level analysis.
+- Utilizes conditional formatting to highlight top-performing categories and products.
+
+
 
 
 
