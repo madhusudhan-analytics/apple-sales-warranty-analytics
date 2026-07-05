@@ -176,10 +176,18 @@ left join category c
 ```
 # Dashboard Preview
 
+## Landing Page
+![Landing Page](Screenshot/Screenshot%201.png)
 
+The landing page serves as the entry point to the dashboard, providing a clean and intuitive navigation experience. It introduces the project with Apple Inc. branding and allows users to seamlessly navigate to each analytical report through interactive navigation buttons.
 
+### Features
 
-
+- Professional dashboard introduction with Apple Inc. branding.
+- Interactive navigation buttons for quick access to all report pages.
+- Consistent dark-themed user interface for a modern and professional appearance.
+- Centralized navigation to improve the overall user experience.
+- Clean and minimal design focused on accessibility and ease of use.
 
 
 
