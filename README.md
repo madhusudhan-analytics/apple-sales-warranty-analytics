@@ -220,6 +220,23 @@ The **Category & Product Performance Analysis** page provides detailed insights 
 - Provides interactive filtering for detailed category-level analysis.
 - Utilizes conditional formatting to highlight top-performing categories and products.
 
+## Regional & Store Analysis
+![Regional & Store Analysis](Screenshot/Screenshot%204.png)
+
+
+The **Regional & Store Analysis** page provides detailed insights into the performance of countries, cities, and retail stores. It enables users to evaluate regional sales performance, compare store-level metrics, and identify high-performing locations through interactive analysis and dynamic filtering.
+
+### Key Highlights
+
+- Evaluates revenue and sales performance across different countries, cities, and stores.
+- Monitors regional sales trends using interactive year and country filters.
+- Compares the top-performing cities and retail stores based on revenue.
+- Provides average revenue per store to measure operational performance.
+- Enables drill-down analysis using a decomposition tree for deeper business insights.
+- Supports interactive filtering for country, city, and store-level analysis.
+- Uses conditional formatting to highlight top-performing regions and stores.
+
+
 
 
 
