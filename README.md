@@ -251,6 +251,29 @@ The **Warranty Claim Analysis** page provides comprehensive insights into produc
 - Uses conditional formatting to highlight products, locations, and stores with high and low warranty claim volumes.
 - Enables stakeholders to identify quality concerns and support data-driven operational decisions.
 
+## Learnings
+
+Through this project, I gained hands-on experience in designing and implementing an end-to-end Business Intelligence solution. The project strengthened both my technical and analytical skills by working with real-world business scenarios.
+
+### Key Learnings
+
+- Designed and implemented a relational database using MySQL.
+- Developed SQL queries, joins, views, and reporting solutions for business analysis.
+- Built an optimized data model in Power BI.
+- Created dynamic KPIs and business metrics using DAX.
+- Applied Power Query for data cleaning and transformation.
+- Implemented conditional formatting to improve data interpretation.
+- Designed interactive dashboards using slicers, drill-down features, and cross-filtering.
+- Translated business requirements into meaningful visualizations and actionable insights.
+- Improved dashboard design principles, user experience, and storytelling techniques.
+- Strengthened problem-solving and analytical thinking through real-world business scenarios.
+
+## Conclusion
+
+This project demonstrates my ability to develop a complete Business Intelligence solution by integrating **MySQL, SQL, Power BI, DAX, and Power Query** into a single analytics workflow. It showcases practical skills in database design, data modeling, business analysis, KPI development, interactive dashboard creation, and data visualization.
+
+By transforming raw sales and warranty data into meaningful business insights, this project highlights my ability to solve real-world business problems using data-driven decision-making. It reflects industry-standard Business Intelligence practices and serves as a strong portfolio project demonstrating my capabilities as an aspiring **Business Intelligence Analyst**, **Data Analyst**, or **Power BI Developer**.
+
 
 
 
