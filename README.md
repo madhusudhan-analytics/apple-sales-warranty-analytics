@@ -174,6 +174,7 @@ left join products p
 left join category c  
           on p.Category_ID = c.category_id;
 ```
+# Dashboard Preview
 
 
 
