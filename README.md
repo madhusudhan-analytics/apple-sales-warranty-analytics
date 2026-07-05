@@ -236,6 +236,25 @@ The **Regional & Store Analysis** page provides detailed insights into the perfo
 - Supports interactive filtering for country, city, and store-level analysis.
 - Uses conditional formatting to highlight top-performing regions and stores.
 
+## Warranty Claim Analysis
+![Warranty Claim Analysis](Screenshot/Screenshot%205.png)
+
+The **Warranty Claim Analysis** page provides comprehensive insights into product warranty performance by monitoring claim trends, identifying products with the highest warranty claims, and evaluating warranty performance across categories, countries, cities, and retail stores. This dashboard helps identify quality issues, operational risks, and areas requiring immediate attention through interactive analysis.
+
+### Key Highlights
+
+- Monitors warranty claim trends over time using interactive filters.
+- Identifies products with the highest warranty claim volumes.
+- Evaluates warranty claims across product categories and geographical locations.
+- Compares warranty performance across countries, cities, and retail stores.
+- Supports warranty status analysis through interactive claim status filters.
+- Uses conditional formatting to highlight products, locations, and stores with high and low warranty claim volumes.
+- Enables stakeholders to identify quality concerns and support data-driven operational decisions.
+
+
+
+
+
 
 
 
