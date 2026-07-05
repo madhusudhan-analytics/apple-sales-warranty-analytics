@@ -47,3 +47,5 @@ This project is a complete end-to-end Business Intelligence solution developed u
 
 # Database Schema
 The project uses a relational database designed in **MySQL** to manage sales and warranty data. The schema consists of five interconnected tables that support efficient data storage, retrieval, and business reporting.
+
+![Database Schema](Database%20Schema.png)
