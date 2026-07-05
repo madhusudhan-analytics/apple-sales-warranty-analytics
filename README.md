@@ -58,6 +58,70 @@ The project includes a collection of SQL scripts covering the complete data pipe
 ```sql
 create database Apple_Inc;
 ```
+### Table creation
+#### Category
+```sql
+create table category (
+
+ category_id varchar(50) primary key,
+ category_name varchar(100)
+ 
+);
+```
+#### Products
+```sql
+create table products (
+
+Product_ID varchar(50) primary key,
+Product_Name varchar(300),
+Category_ID varchar(50),
+Launch_Date date,
+Price int,
+foreign key (Category_ID) references category(category_id)
+
+);
+```
+
+#### Stores
+```sql
+create table stores (
+
+Store_ID varchar(50) primary key,
+Store_Name varchar(300),
+City varchar(300),
+Country varchar(300)
+
+);
+```
+
+#### Sales 
+```sql
+create table sales (
+
+sale_id varchar(50) primary key,
+sale_date date,
+store_id varchar(50),
+product_id varchar(50),
+quantity int,
+foreign key (store_id) references stores(Store_ID),
+foreign key (product_id) references products(Product_ID)
+
+);
+```
+
+#### Warranty 
+```sql
+create table warranty (
+
+claim_id varchar(100),
+claim_date date,
+sale_id varchar(50),
+repair_status varchar(200),
+foreign key (sale_id) references sales(sale_id)
+
+);
+```
+
 
 
 
