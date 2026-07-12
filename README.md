@@ -190,7 +190,7 @@ The landing page serves as the entry point to the dashboard, providing a clean a
 - Clean and minimal design focused on accessibility and ease of use.
 
 ## Executive Summary
-![Executive Summary](Screenshot/Screenshot%202.png)
+![Executive Summary](Screenshot/Screenshot%202026-07-13%20000127.png)
 
 The **Executive Summary** page provides a high-level overview of business performance by consolidating key performance indicators (KPIs) and strategic insights into a single interactive dashboard. It enables stakeholders to quickly assess overall sales performance, monitor business trends, and identify top-performing regions and product categories.
 
