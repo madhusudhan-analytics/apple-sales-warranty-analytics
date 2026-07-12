@@ -206,7 +206,7 @@ The **Executive Summary** page provides a high-level overview of business perfor
 
 
 ## Category & Product Performance Analysis
-![Category & Product Performance Analysis](Screenshot/Screenshot%203.png)
+![Category & Product Performance Analysis](Screenshot/Screenshot%202026-07-13%20000228.png)
 
 The **Category & Product Performance Analysis** page provides detailed insights into product and category performance by evaluating key sales metrics and overall business contribution. It enables users to compare product categories, identify high-performing products, analyze sales trends, and understand the relationship between revenue and quantity sold for informed decision-making.
 
