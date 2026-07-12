@@ -221,7 +221,7 @@ The **Category & Product Performance Analysis** page provides detailed insights 
 - Utilizes conditional formatting to highlight top-performing categories and products.
 
 ## Regional & Store Analysis
-![Regional & Store Analysis](Screenshot/Screenshot%204.png)
+![Regional & Store Analysis](Screenshot/Screenshot%202026-07-13%20000800.png)
 
 
 The **Regional & Store Analysis** page provides detailed insights into the performance of countries, cities, and retail stores. It enables users to evaluate regional sales performance, compare store-level metrics, and identify high-performing locations through interactive analysis and dynamic filtering.
@@ -237,7 +237,7 @@ The **Regional & Store Analysis** page provides detailed insights into the perfo
 - Uses conditional formatting to highlight top-performing regions and stores.
 
 ## Warranty Claim Analysis
-![Warranty Claim Analysis](Screenshot/Screenshot%205.png)
+![Warranty Claim Analysis](Screenshot/Screenshot%202026-07-13%20000849.png)
 
 The **Warranty Claim Analysis** page provides comprehensive insights into product warranty performance by monitoring claim trends, identifying products with the highest warranty claims, and evaluating warranty performance across categories, countries, cities, and retail stores. This dashboard helps identify quality issues, operational risks, and areas requiring immediate attention through interactive analysis.
 
