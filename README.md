@@ -177,7 +177,7 @@ left join category c
 # Dashboard Preview
 
 ## Landing Page
-![Landing Page](Screenshot/Screenshot%201.png)
+![Landing Page](Screenshot/Screenshot%202026-07-13%20000918.png)
 
 The landing page serves as the entry point to the dashboard, providing a clean and intuitive navigation experience. It introduces the project with Apple Inc. branding and allows users to seamlessly navigate to each analytical report through interactive navigation buttons.
 
